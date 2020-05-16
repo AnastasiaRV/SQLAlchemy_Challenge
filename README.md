@@ -136,6 +136,8 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
   ![daily-normals](Images/daily-normals.png)
   
+# Surfs Up!
+
 ![surfs-up.png](Images/surfs-up.png)
 
 ### Copyright
